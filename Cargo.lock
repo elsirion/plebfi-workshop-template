@@ -1353,6 +1353,7 @@ dependencies = [
  "bitcoin",
  "rocket",
  "rocket_dyn_templates",
+ "serde",
 ]
 
 [[package]]
